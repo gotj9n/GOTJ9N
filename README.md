@@ -1,4 +1,6 @@
-### Hi there 👋
+# สวัสดีทุกคน 👋
+
+ผมชื่อ นายเอกพันธ์ พึ่งแพ หรือ ก๊อตจิเบอรี่ ผู้ดูแล **GTA CAREER ROLEPLAY** นี้คือ Github คอยอัพเดตการทำงานของ GOTJ9N เช่น Map Editor , Code ส่วนใหญ่สักมากกว่า
 
 <!--
 **GOTJ9N/GOTJ9N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
