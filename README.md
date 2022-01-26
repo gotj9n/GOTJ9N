@@ -1,16 +1,14 @@
-# สวัสดีทุกคน 👋
+# Hi! , I'm Aekapan 👋
 
-ผมชื่อ นายเอกพันธ์ พึ่งแพ หรือ ก๊อตจิ ผู้ดูแล **GTA CAREER ROLEPLAY** นี้คือ Github คอยอัพเดตการทำงานของ GOTJ9N ในอนาคต
+สวัสดีครับ ผม เอกพันธ์ พึ่งแพ หรือ ก๊อตจิ ผู้ดูแล **GTA CAREER ROLEPLAY** นี้คือ Github คอยอัพเดตการทำงานของ gotj9n ในอนาคต
 
 ตอนนี้กำลังพัฒนาศึกษาเกี่ยวกับ FiveM ( Lua , Html , Json ) เพื่อพัฒนาสคริป
 และ SA-MP ( .pwn ) ได้การพัฒนาในเกม Grand Theft Auto: San Andreas
 
 - Currently not quite available, may update soon! - 
 
-<!--
-**GOTJ9N/GOTJ9N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
